@@ -16,6 +16,15 @@ This is a comprehensive collection of expansions of the acronym MACBRE. I proudl
 * Many Apathic Chihuahuas Bark Ridiculously Eloquently
 * Manual Automation: Consistent Behaviour, Repeatable Excellence
 
+##  WŁADEK
+
+* Wprowadzam Ład Adekwatnie Dopracowanymi Edycjami Kodu
+
+## SKÓREK
+
+* Skończył Klasę Ósmą Robiąc Efektownego Koziołka
+* Skończył Klasę Ósmą Rilisując Elegancki Kod
+
 ## Contribution
 
 You are more than welcome to contribute under the following rules:
