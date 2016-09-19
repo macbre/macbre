@@ -15,6 +15,8 @@ This is a comprehensive collection of expansions of the acronym MACBRE. I proudl
 * Middle Aged Caesar Built Roman Empire
 * Many Apathic Chihuahuas Bark Ridiculously Eloquently
 * Manual Automation: Consistent Behaviour, Repeatable Excellence
+* Make Amazing Commandos Blast Resistent Exoskeletons
+* Meganium, Attack Charizard's Big Rear End
 
 ##  WŁADEK
 
