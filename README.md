@@ -27,6 +27,13 @@ This is a comprehensive collection of expansions of the acronym MACBRE. I proudl
 * Skończył Klasę Ósmą Robiąc Efektownego Koziołka
 * Skończył Klasę Ósmą Rilisując Elegancki Kod
 
+## SUS
+
+* Slightly Undercooked Spaghetti
+* Soviet Union Starfleet
+* Soldier Under Sentence
+* Skórek Ukradł Ser
+
 ## Contribution
 
 You are more than welcome to contribute under the following rules:
