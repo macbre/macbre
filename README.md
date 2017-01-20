@@ -17,6 +17,7 @@ This is a comprehensive collection of expansions of the acronym MACBRE. I proudl
 * Manual Automation: Consistent Behaviour, Repeatable Excellence
 * Make Amazing Commandos Blast Resistent Exoskeletons
 * Meganium, Attack Charizard's Big Rear End
+* Most Alluring Concepts Behind Reverse Engineering
 
 ##  WŁADEK
 
