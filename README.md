@@ -34,6 +34,7 @@ This is a comprehensive collection of expansions of the acronym MACBRE. I proudl
 * Soviet Union Starfleet
 * Soldier Under Sentence
 * Skórek Ukradł Ser
+* Software Under Siege
 
 ## Contribution
 
