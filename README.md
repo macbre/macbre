@@ -36,6 +36,10 @@ This is a comprehensive collection of expansions of the acronym MACBRE. I proudl
 * Skórek Ukradł Ser
 * Software Under Siege
 
+## JOANNA
+
+* Jaunty Organized And No-Nonsense Approach
+
 ## Contribution
 
 You are more than welcome to contribute under the following rules:
