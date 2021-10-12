@@ -6,6 +6,10 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=macbre&count_private=true&theme=graywhite&layout=compact&langs_count=8)
 
+<!--
+![macbre's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=macbre)
+-->
+
 #### Read more
 
 * [My articles on Medium](https://medium.com/@maciej.brencz)
