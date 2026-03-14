@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+[![Maciej Brencz profile views](https://u8views.com/api/v1/github/profiles/1929317/views/day-week-month-total-count.svg)](https://u8views.com/github/macbre)
+
 #### My GitHub Statistics
 
 ![My GitHub Statistics](https://github-readme-stats.vercel.app/api?username=macbre&show_icons=true&count_private=true&hide_title=true&theme=graywhite&disable_animations=true)
